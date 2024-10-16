@@ -100,8 +100,6 @@ You can now test the app on an Android device using the **Expo Go** app or an An
 └── README.md          # Project README (this file)
 ```
 
----
-
 ## 🔮 Future Enhancements
 
 - **Multi-language support**: Add support for multiple languages to cater to a global audience.
@@ -133,4 +131,4 @@ A3: User data is securely stored using **Firebase Realtime Database** and **Fire
 - Special thanks to **OpenAI** for providing the APIs and AI models used in this project.
 - Thanks to the **React Native** and **Expo** communities for their incredible tools and resources.
 
-Happy Coding😇✌🏻
+### Happy Coding😇✌🏻
