@@ -2,6 +2,8 @@
 
 Welcome to the **AI Travel Planner App** — your smart travel assistant that helps you plan trips effortlessly using AI-powered recommendations! This **React Native** and **Expo** application is designed for Android, offering a seamless and modern travel planning experience with personalized itineraries, accommodations, and cost estimates all in one place.
 
+![App Walkthrough](app-walkthrough.gif)
+
 ## 📱 Project Overview
 
 The **AI Travel Planner App** leverages **AI models** to create detailed travel plans based on user inputs such as:
